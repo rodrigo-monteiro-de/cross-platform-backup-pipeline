@@ -1,0 +1,27 @@
+# Credentials
+.env
+.my.cnf
+
+# Logs
+logs/
+*.log
+
+# Errors
+erros/
+
+# Generated backups
+processados/
+*.sql
+*.sql.gz
+*.gz
+
+# Runtime files
+execucao.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
